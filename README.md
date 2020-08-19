@@ -10,12 +10,11 @@ Want to help me? 🖥
 <br>
 <a target="_blank" href="https://donorbox.org/a-pc-to-code"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png" height="40"/></a>
 
-<div align='left'>
-    <a href="https://github.com/bulletsentence?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact" width="400" height="200"/>
-    </a>
-</div>
 
+   <a href="https://github.com/bulletsentence?tab=repositories">
+     <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact" width="400" height="200"/>
+   </a>
+   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=light&show_icons=true" />
 
 
