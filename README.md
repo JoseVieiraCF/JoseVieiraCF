@@ -16,5 +16,7 @@ Want to help me? 🖥
     </a>
 </div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=light&show_icons=true" />
+
 
 
