@@ -15,7 +15,7 @@ Want to help me? 🖥
      <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact" width="400" height="200"/>
    </a>
    
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=light&show_icons=true" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=light&show_icons=true" />
 
 
 
