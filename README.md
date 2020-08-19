@@ -12,10 +12,10 @@ Want to help me? 🖥
 
 
    <a href="https://github.com/JoseVieiraCF?tab=repositories">
-     <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact&theme=radical&title_color=2ED3EA"/>
+     <img align='left' height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact&theme=radical&title_color=2ED3EA"/>
    </a>
    
-<img src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=radical&title_color=2ED3EA&show_icons=true " />
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=radical&title_color=2ED3EA&show_icons=true " />
 
 
 
