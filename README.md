@@ -1,6 +1,6 @@
 ### Hi, I'm José Vieira 👋👨‍💻
 
-My name is José Vieira, I'm 20 years old, Systems Analyst and Software Developer, technology enthusiast, java and javascript programmer, currently working as a freelancer.
+I'm 20 years old, Systems Analyst and Software Developer, technology enthusiast, java and javascript programmer, currently working as a freelancer.
 
 Portfolio and Projects: https://josevieiracf.github.io/portfolio/
 
@@ -15,7 +15,7 @@ Want to help me? 🖥
      <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact" width="400" height="200"/>
    </a>
    
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=light&show_icons=true" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=JoseVieiraCF&theme=radical&title_color=2ED3EA&show_icons=true " />
 
 
 
