@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm José Vieira 👋👨‍💻
 
-<!--
-**JoseVieiraCF/JoseVieiraCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is José Vieira, i'm 20 years old, Systems Analyst and Software Developer, technology enthusiast, java and javascript programmer, currently working as a freelancer.
 
-Here are some ideas to get you started:
+Portfolio and Projects: https://josevieiracf.github.io/portfolio/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Want to help me? 🖥
+<br>
+<br>
+<a target="_blank" href="https://donorbox.org/a-pc-to-code"><img src="https://d1iczxrky3cnb2.cloudfront.net/button-medium-blue.png" height="40"/></a>
+
+<div align='center'>
+    <a href="https://github.com/bulletsentence?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVieiraCF&layout=compact" width="400" height="200"/>
+    </a>
+</div>
+
+
+
