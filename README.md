@@ -1,6 +1,6 @@
 ### Hi, I'm José Vieira 👋👨‍💻
 
-I'm 20 years old, Systems Analyst and Software Developer, technology enthusiast, java and javascript programmer, currently working at Compcel.
+I'm 20 years old, Systems Analyst and Software Developer, technology enthusiast, java, Php and javascript programmer, currently working at Compcel.
 
 Portfolio and Projects: https://josevieiracf.github.io/portfolio/
 
