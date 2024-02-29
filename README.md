@@ -2,8 +2,6 @@
 
 I'm 22 years old, Systems Analyst and Software Developer, technology enthusiast, Flutter and Php developer.
 
-Portfolio and Projects: https://josevieiracf.github.io/
-
 
 
    <a href="https://github.com/JoseVieiraCF?tab=repositories">
